@@ -1,0 +1,17 @@
+C:\Users\Asuna\Desktop\Cannon\CannonScript\CannonScript\bin\Debug\net8.0\CannonScript.exe
+C:\Users\Asuna\Desktop\Cannon\CannonScript\CannonScript\bin\Debug\net8.0\CannonScript.deps.json
+C:\Users\Asuna\Desktop\Cannon\CannonScript\CannonScript\bin\Debug\net8.0\CannonScript.runtimeconfig.json
+C:\Users\Asuna\Desktop\Cannon\CannonScript\CannonScript\bin\Debug\net8.0\CannonScript.dll
+C:\Users\Asuna\Desktop\Cannon\CannonScript\CannonScript\bin\Debug\net8.0\CannonScript.pdb
+C:\Users\Asuna\Desktop\Cannon\CannonScript\CannonScript\obj\Debug\net8.0\CannonScript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asuna\Desktop\Cannon\CannonScript\CannonScript\obj\Debug\net8.0\CannonScript.AssemblyInfoInputs.cache
+C:\Users\Asuna\Desktop\Cannon\CannonScript\CannonScript\obj\Debug\net8.0\CannonScript.AssemblyInfo.cs
+C:\Users\Asuna\Desktop\Cannon\CannonScript\CannonScript\obj\Debug\net8.0\CannonScript.csproj.CoreCompileInputs.cache
+C:\Users\Asuna\Desktop\Cannon\CannonScript\CannonScript\obj\Debug\net8.0\CannonScript.dll
+C:\Users\Asuna\Desktop\Cannon\CannonScript\CannonScript\obj\Debug\net8.0\refint\CannonScript.dll
+C:\Users\Asuna\Desktop\Cannon\CannonScript\CannonScript\obj\Debug\net8.0\CannonScript.pdb
+C:\Users\Asuna\Desktop\Cannon\CannonScript\CannonScript\obj\Debug\net8.0\CannonScript.genruntimeconfig.cache
+C:\Users\Asuna\Desktop\Cannon\CannonScript\CannonScript\obj\Debug\net8.0\ref\CannonScript.dll
+C:\Users\Asuna\Desktop\Cannon\CannonScript\CannonScript\bin\Debug\net8.0\dotenv.net.dll
+C:\Users\Asuna\Desktop\Cannon\CannonScript\CannonScript\obj\Debug\net8.0\CannonScript.csproj.AssemblyReference.cache
+C:\Users\Asuna\Desktop\Cannon\CannonScript\CannonScript\obj\Debug\net8.0\CannonSc.2933305D.Up2Date
